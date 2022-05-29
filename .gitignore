@@ -5,3 +5,4 @@ priv/
 _build/
 c_src/syslog_drv.d
 compile_commands.json
+rebar.lock
